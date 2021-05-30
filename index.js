@@ -24,4 +24,5 @@ myButton.addEventListener('click', (e) => {
         })
     }
     inputText.value = "";
+
 });
